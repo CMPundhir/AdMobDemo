@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdMobDemo</string>
+    <string name="mobAdId">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
